@@ -1,5 +1,9 @@
 {
-    "name":         "cachew",
-    "version":      "0.0.1",
-    "main":         "main.js"
+  "name": "cachew",
+  "version": "0.0.1",
+  "main": "main.js",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "mocha": "^2.0.1"
+  }
 }
