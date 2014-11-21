@@ -1,7 +1,24 @@
 {
   "name": "cachew",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "description": "Lightweight local caching primitives for Node.js",
+  "keywords": [
+    "memory",
+    "in-memory",
+    "cache",
+    "store",
+    "range",
+    "search",
+    "index"
+  ],
+  "homepage": "https://github.com/shenanigans/node-exhibition",
+  "bugs": "https://github.com/shenanigans/node-exhibition/issues",
+  "license": "MIT",
+  "author": "Kevin \"Schmidty\" Smith",
   "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
   "devDependencies": {
     "async": "^0.9.0",
     "mocha": "^2.0.1"
