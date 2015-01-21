@@ -75,26 +75,16 @@ console.log (example.getRange (10, 30));
 
 Development
 -----------
-`cachew` is developed and maintained by Kevin "Schmidty" Smith under the MIT license. I am currently
-broke and unemployed. If you want to see continued development on `cachew`, please help me
+`cachew` is developed and maintained by Kevin "Schmidty" Smith under the MIT license. If you want to
+see continued development, please help me
 [pay my bills!](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PN6C2AZTS2FP8&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
-
-
-Tests
------
-```shell
-$ npm test
-```
-Several of the tests will take a long time to complete. These are rigorous timeout tests requiring
-multiple rounds of expiration and renewal cycles. Some of them are expected to take nearly a full
-second each.
 
 
 LICENSE
 -------
 The MIT License (MIT)
 
-Copyright (c) 2014 Kevin "Schmidty" Smith
+Copyright (c) 2015 Kevin "Schmidty" Smith
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

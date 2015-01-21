@@ -94,16 +94,6 @@ describe ("DocumentChainCache", function(){
         });
     });
 
-            // assert (testCache.get ('alfa', 'able') === able, 'read ok');
-            // assert (testCache.get ('bravo', 'able') === able, 'read ok');
-            // assert (testCache.get ('alfa', 'baker') === baker, 'read ok');
-            // assert (testCache.get ('bravo', 'baker') === baker, 'read ok');
-            // assert (testCache.get ('alfa', 'charlie') === charlie, 'read ok');
-            // assert (testCache.get ('bravo', 'charlie') === charlie, 'read ok');
-            // assert (testCache.get ('alfa', 'dog') === dog, 'read ok');
-            // assert (testCache.get ('bravo', 'dog') === dog, 'read ok');
-            // assert (testCache.get ('alfa', 'easy') === easy, 'read ok');
-            // assert (testCache.get ('bravo', 'easy') === easy, 'read ok');
     describe ("overflows", function(){
         var smallCache;
         var largeCache;
